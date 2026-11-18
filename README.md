@@ -60,3 +60,8 @@ python bieu_do_may.py --lat 21.08 --lon 105.37 --ten "Ba Vì" --tu 2024
 - **Dữ liệu gốc:** tái phân tích ERA5 của ECMWF / Copernicus Climate Change Service.
 - **Giới hạn:** ERA5 là số liệu **mô hình đồng hóa**, không phải quan trắc tại chỗ. Với ô lưới khoảng 25 km, dữ liệu không thể hiện được hiệu ứng cục bộ như sương thung lũng hay khói bụi đô thị.
 - **Giờ mặt trời:** tính bằng công thức gần đúng của NOAA, sai số vài phút.
+
+## Giấy phép
+
+- **Code:** giấy phép [MIT](LICENSE).
+- **Ảnh:** chứa dữ liệu Open-Meteo / ERA5, nên khi dùng lại cần ghi nguồn theo CC BY 4.0 như mục trên.
